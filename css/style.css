@@ -5,7 +5,12 @@
     --secondary-color: #274b5d;
     --section-padding:60px;
 }
-
+.container{
+    padding-left:20px;
+    padding-right:20px;
+    margin-left:auto;
+    margin-right:auto;
+}
 /*   media queries    */
 /* Small */
 @media (min-width: 768px) {
